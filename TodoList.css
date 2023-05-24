@@ -1,0 +1,30 @@
+body {
+    background-color: #eee;
+}
+   
+.js-toDoForm { 
+  margin-top: 50px;
+  margin-left: 50px;
+}
+   
+input {
+  font-size: 40px;
+}
+   
+.js-toDoList {
+  margin-left: 50px;
+  color: rgb(84, 83, 83);
+  font-size: 26px;
+}
+
+span{
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.completed{
+    border-bottom:1px, black, solid;
+    text-decoration: line-through;
+}
+
+
